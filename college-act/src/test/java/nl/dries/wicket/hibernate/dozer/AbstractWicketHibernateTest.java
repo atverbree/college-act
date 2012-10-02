@@ -77,7 +77,7 @@ public abstract class AbstractWicketHibernateTest
 	@Test
 	public void doFalse()
 	{
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 	/**
